@@ -1,19 +1,23 @@
 # React-Cotizador-de-Prestamos
 Realizamos un pequeño proyecto en React js, donde vemos como crear componentes, como pasar parametros, como usar useState, etc.
 
-**Tutorial**
-<br/><br/>
-https://youtu.be/asvy1Uz1fUs
-<br/><br/>
-**Demo**
+![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1679708872/github/Cotizador-de-Prestamos_gacddp.png)
 
-![image](https://drive.google.com/uc?export=view&id=1YxCoi0wDgYhUgC9DKFskJSNVzhVSbV7l)
+## 💻Tutorial
+<a href='https://youtu.be/asvy1Uz1fUs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/asvy1Uz1fUs/mqdefault.jpg' alt='React Cotizador de Prestamos' />
+</a>
 
-
-**Levantar el Proyecto**
-
-1\. **cd main Folder**
-
-2\. **npm install**
-
-3\. **npm run dev**
+## 📦Getting Started
+```
+git clone https://github.com/garu2/React-Cotizador-de-Prestamos.git
+```
+```
+cd React-Cotizador-de-Prestamos
+```
+```
+npm install
+```
+```
+npm run dev
+```
